@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: She/Her (Elle/Elle)
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on C/C++, Lua, Python
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS, Shell
 - 📫 Tchat with me on Discord : Léna#9999
