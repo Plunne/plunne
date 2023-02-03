@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning MbedOS and 3D Printing
 - 📫 Tchat with me on Discord : =Lena#5572=
 
-I'm a young 23yo embedded engineer specialized in STM32 programing.
+I'm a young 23yo embedded engineer specialized in Low Level programming.
