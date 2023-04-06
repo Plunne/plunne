@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning **STM32** Low Level (with Registers)
 - 📫 Tchat with me on Discord : `Lena#5572`
 
-I'm a young 23yo embedded engineer specialized in Low Level programming.
+I'm a young 24yo embedded engineer who loves Low Level programming.
