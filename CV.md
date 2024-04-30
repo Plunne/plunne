@@ -157,7 +157,7 @@ dans les fichiers ".tact"
 ## Console de commande de deneigeuse
 
 **Date :** de 10/2020 à 06/2021 (8 mois)  
-**Client :** W-Côte & Fils (Montreal, CANADA)
+**Client :** W-Côte & Fils (Montreal, CANADA)  
 **Entreprise :**  S-TGI (Montreal, CANADA)  
 **Rôle :** Stagiaire
 
