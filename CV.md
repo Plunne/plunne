@@ -12,18 +12,18 @@
 
 ## 🛠 COMPETENCES
 
-| INFORMATIQUE | |
-|-|-|
-| Langages | *Ada, C, C++, CMake, HTML/CSS, Lua, Makefile, Python, Rust, Shell/Bash, SQL/PHP, VHDL* |
-| Formats | *csv, ini, json, xml* |
-| Frameworks | *Arduino, CMSIS, GTK+, MbedOS (RTOS), Qt, STM32HAL, SWATT (Continental SWT Framework), Tkinter* |
-| Familles uC | *Atmel AVR ATMega, Aurix TC3XX, Espressif ESP32, STMicroelectronics STM32* |
-| Protocoles | *BLE, CAN, I2C, Ethernet, TCP/IP, DHCP, DNS, SPI, UART, USB HID* |
-| Logiciels | *Blender (Impression 3D), CANoe, Confluence, DOORS, Eclipse IDE, ElectroBits Tresos, Entreprise Architect, EMACS, GCC/GDB, Git/Github/Gitlab, IDEAS (Continental Eclispe IDE), Jenkins, JIRA, Keil, KiCAD (Conception PCB), LAMP, Mbed Studio, Qt Creator, STM32Cube{MX/IDE}, VS/VSCode, Vi/Vim/NeoVim, WinIDEA, Wireshark* |
-| Methodes | *Agile, Cycle en V, Kanban, SAFe, Scrum, UML* |
-| Normes | *DO-178, ISO-26262* |
-| OS | *Linux (Arch, Debian, Fedora), Windows* |
-| Virtualisation | *Virtualbox, VMWare* |
+| INFORMATIQUE   |                                                                                                                                                                                                                                                                                                                             |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Langages       | *Ada, C, C++, CMake, HTML/CSS, Lua, Makefile, Python, Rust, Shell/Bash, SQL/PHP, VHDL*                                                                                                                                                                                                                                      |
+| Formats        | *csv, ini, json, xml*                                                                                                                                                                                                                                                                                                       |
+| Frameworks     | *Arduino, CMSIS, GTK+, MbedOS (RTOS), Qt, STM32HAL, SWATT (Continental SWT Framework), Tkinter*                                                                                                                                                                                                                             |
+| Familles uC    | *Atmel AVR ATMega, Aurix TC3XX, Espressif ESP32, STMicroelectronics STM32*                                                                                                                                                                                                                                                  |
+| Protocoles     | *BLE, CAN, I2C, Ethernet, TCP/IP, DHCP, DNS, SPI, UART, USB HID*                                                                                                                                                                                                                                                            |
+| Logiciels      | *Blender (Impression 3D), CANoe, Confluence, DOORS, Eclipse IDE, ElectroBits Tresos, Entreprise Architect, EMACS, GCC/GDB, Git/Github/Gitlab, IDEAS (Continental Eclispe IDE), Jenkins, JIRA, Keil, KiCAD (Conception PCB), LAMP, Mbed Studio, Qt Creator, STM32Cube{MX/IDE}, VS/VSCode, Vi/Vim/NeoVim, WinIDEA, Wireshark* |
+| Methodes       | *Agile, Cycle en V, Kanban, SAFe, Scrum, UML*                                                                                                                                                                                                                                                                               |
+| Normes         | *DO-178, ISO-26262*                                                                                                                                                                                                                                                                                                         |
+| OS             | *Linux (Arch, Debian, Fedora), Windows*                                                                                                                                                                                                                                                                                     |
+| Virtualisation | *Virtualbox, VMWare*                                                                                                                                                                                                                                                                                                        |
 
 # 🎓 FORMATIONS
 
@@ -209,19 +209,19 @@ dans les fichiers ".tact"
 
 # 📂 PROJETS PERSONNELS
 
-## STM32_LSL (LOW-LEVEL STM32 LIBRARY)
+## [STM32_LSL (LOW-LEVEL STM32 LIBRARY)](https://github.com/Plunne/STM32_LSL)
 
 **Date :** En cours...  
 **Intitulé du Projet :** Bibliotheques de drivers STM32 from scratch  
 **Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
 
-## SIMCENTRALIZER
+## [SIMCENTRALIZER](https://github.com/Plunne/SimCentralizer)
 
 **Date :** 2022  
 **Intitulé du Projet :** Centraliseur de peripheriques USB de simulation tout en un. (STM32)  
 **Environnement technique :** *C, STM32, STM32CubeMX, USB HID, SPI, UART, ADC, MAKEFILE, GCC, ST-LINK, VIM, LINUX, KICAD, GITHUB*
 
-## Zapette BLE
+## [Zapette BLE](https://github.com/Plunne/Zapette-BLE)
 
 **Date :** 2022  
 **Intitulé du Projet :** Telecommande-pointeur de conference Bluetooth Low Energy HID connectee. (ESP32)  
