@@ -1,9 +1,11 @@
 # INGENIEURE LOGICIELS EMBARQUES
 
+*Passionnée d'informatique notamment dans la programmation en langage de bas-niveau sur micro-contrôleurs en C/C++.*
+
 > **Nom :** Lena SAVY-LARIGALDIE  
 > **Age :** 25 ans  
 > **Nationnalite :** Francaise  
-> **Permis :** B  
+> **Permis :** B 
 
 ## 🗣 LANGUES
 
