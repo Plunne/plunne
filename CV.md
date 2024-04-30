@@ -25,7 +25,7 @@
 | OS | *Linux (Arch, Debian, Fedora), Windows* |
 | Virtualisation | *Virtualbox, VMWare* |
 
-# FORMATIONS
+# 🎓 FORMATIONS
 
 ### 2023 - POEI Developpement Logiciels Embarques
 > **Niveau :** BAC +5 (RNCP7)  
@@ -213,7 +213,7 @@ dans les fichiers ".tact"
 
 **Date :** En cours...  
 **Intitulé du Projet :** Bibliotheques de drivers STM32 from scratch  
-**Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-767ZI), CMSIS, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
+**Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
 
 ## SIMCENTRALIZER
 
