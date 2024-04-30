@@ -1,16 +1,16 @@
-# CV
+# Ingenieure en developpement de logiciels embarques
 
 > **Nom :** Lena SAVY-LARIGALDIE  
 > **Age :** 25 ans  
 > **Nationnalite :** Francaise  
 > **Permis :** B  
 
-# LANGUES
+## 🗣 LANGUES
 
-### Anglais
+### 🇬🇧 Anglais
 > **Niveau :** B2/C1 (Courant + Technique)
 
-# COMPETENCES
+## 🛠 COMPETENCES
 
 | INFORMATIQUE | |
 |-|-|
@@ -51,7 +51,7 @@
 > **Niveau :** DNB (Diplome Nationnal du Brevet des Colleges)  
 > **Etablissement :** College Pradeau-La Sede (Tarbes)
 
-# EXPERIENCES PROFESSIONNELLES
+# 💼 EXPERIENCES PROFESSIONNELLES
 
 ## HCP4
 
@@ -207,7 +207,7 @@ dans les fichiers ".tact"
 
 **Environnement technique :** *C++, QT, QTCREATOR, XLSX, CSV, DOSINI*
 
-# PROJETS PERSONNELS
+# 📂 PROJETS PERSONNELS
 
 ## STM32_LSL (LOW-LEVEL STM32 LIBRARY)
 
