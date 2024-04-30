@@ -215,19 +215,19 @@ dans les fichiers ".tact"
 
 **Date :** En cours...  
 **Intitulé du Projet :** Bibliotheques de drivers STM32 from scratch  
-**Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
+**Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, VSCODE, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
 
 ## [SIMCENTRALIZER](https://github.com/Plunne/SimCentralizer)
 
 **Date :** 2022  
 **Intitulé du Projet :** Centraliseur de peripheriques USB de simulation tout en un. (STM32)  
-**Environnement technique :** *C, STM32, STM32CubeMX, USB HID, SPI, UART, ADC, MAKEFILE, GCC, ST-LINK, VIM, LINUX, KICAD, GITHUB*
+**Environnement technique :** *C, STM32, STM32CubeMX, EMACS, USB HID, SPI, UART, ADC, MAKEFILE, GCC, ST-LINK, VIM, LINUX, KICAD, GITHUB*
 
 ## [Zapette BLE](https://github.com/Plunne/Zapette-BLE)
 
 **Date :** 2022  
 **Intitulé du Projet :** Telecommande-pointeur de conference Bluetooth Low Energy HID connectee. (ESP32)  
-**Environnement technique :** *C++, ESP32, ARDUINO, PLATFORMIO, BLE, ADC, VIM, LINUX, KICAD, GITHUB*
+**Environnement technique :** *C++, ESP32, ARDUINO, PLATFORMIO, BLE, ADC, NEOVIM, LINUX, KICAD, GITHUB*
 
 ## De Electronique
 
