@@ -57,7 +57,7 @@
 
 ## HCP4
 
-**Date :** de 07/2023 à 03/2024 (8mois)  
+**Date :** de 07/2023 à 05/2024 (10 mois)  
 **Client :** Continental (Markdorf, ALLEMAGNE)  
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** SW Developper
