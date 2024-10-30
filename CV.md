@@ -30,7 +30,7 @@
 # 🎓 FORMATIONS
 
 ### 2023 - POEI Developpement Logiciels Embarques
-> **Niveau :** BAC +5 (RNCP7)  
+> **Niveau :** BAC +4 (RNCP6)  
 > **Etablissement :** SII (Societe pour l'Informatique Industrielle)
 
 ### 2021 - LP CCRSEE (Conception Commande & Realisation de Systemes Electriques Embarques)
@@ -57,7 +57,7 @@
 
 ## HCP4
 
-**Date :** de 07/2023 à 05/2024 (10 mois)  
+**Date :** de 07/2023 à 09/2024 (1 an)  
 **Client :** Continental (Markdorf, ALLEMAGNE)  
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** SW Developper
