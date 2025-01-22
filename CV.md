@@ -213,13 +213,13 @@ dans les fichiers ".tact"
 
 ## [RISC-Plunne](https://github.com/Plunne/RISC-Plunne)
 
-**Date :** 2025 (En phase de recherches...)
-**Intitulé du Projet :** CPU avec une architecture RISC-V (ISA : RV32i) ecrit en VHDL sur un FPGA Xilinx Zynq-7020.
+**Date :** 2025 (En phase de recherches...)  
+**Intitulé du Projet :** CPU avec une architecture RISC-V (ISA : RV32i) ecrit en VHDL sur un FPGA Xilinx Zynq-7020.  
 **Environnement technique :** *ASM, RISC-V, VHDL, VIVADO, XILINX (Zynq-7020)*
 
 ## [STM32_LSL (LOW-LEVEL STM32 LIBRARY)](https://github.com/Plunne/STM32_LSL)
 
-**Date :** 2023 (En pause...)
+**Date :** 2023 (En pause...)  
 **Intitulé du Projet :** Bibliotheques de drivers STM32 from scratch  
 **Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, VSCODE, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
 
