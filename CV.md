@@ -213,7 +213,7 @@ dans les fichiers ".tact"
 
 ## [RISC-Plunne](https://github.com/Plunne/RISC-Plunne)
 
-**Date :** 2025 (En phase de recherches...)  
+**Date :** 2025 (En cours...)  
 **Intitulé du Projet :** CPU avec une architecture RISC-V (ISA : RV32i) ecrit en VHDL sur un FPGA Xilinx Zynq-7020.  
 **Environnement technique :** *ASM, RISC-V, VHDL, VIVADO, XILINX (Zynq-7020)*
 
