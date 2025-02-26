@@ -62,7 +62,7 @@
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** SW Developper
 
-**Intitule du projet :** Calculateur Haute Performance d'habitacle pour les modèles de voitures
+**Déscriptif du projet :** Calculateur Haute Performance d'habitacle pour les modèles de voitures
 haut de gamme du groupe Volkswagen (Audi/Porsche) qui embarque 2 Micro-controleurs
 INFINEON Aurix TC3XX.
 
@@ -105,7 +105,7 @@ Spinlocks, Reset, ...)
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** SW Developper
 
-**Intitulé du Projet :** 2 Projets R&D avec base commune pour l'assistance aux personnes
+**Déscriptif du Projet :** 2 Projets R&D avec base commune pour l'assistance aux personnes
 aveugles via une veste haptique.
 
 **Réalisations :**
@@ -143,7 +143,7 @@ dans les fichiers ".tact"
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** Stagiaire
 
-**Intitulé du Projet :** Mise en application lors de 2 TPs - le premier sur de l'utilisation de protocole UART pour communiquer avec un microcontrôleur afin de transmettre des messages en morse. Le second sur de la manipulation de registres sur microcontrôleur et affichage 7 segments.
+**Déscriptif du Projet :** Mise en application lors de 2 TPs - le premier sur de l'utilisation de protocole UART pour communiquer avec un microcontrôleur afin de transmettre des messages en morse. Le second sur de la manipulation de registres sur microcontrôleur et affichage 7 segments.
 
 **Réalisations :**
 - Développement embarqué, système temps réel
@@ -163,7 +163,7 @@ dans les fichiers ".tact"
 **Entreprise :**  S-TGI (Montreal, CANADA)  
 **Rôle :** Stagiaire
 
-**Intitulé du Projet :** Implementation d'un programme de commandes deneigeuses en C/AVR.
+**Déscriptif du Projet :** Implementation d'un programme de commandes deneigeuses en C/AVR.
 
 **Réalisations :**
 
@@ -189,7 +189,7 @@ dans les fichiers ".tact"
 **Entreprise :** SII (Toulouse, FRANCE)  
 **Rôle :** Stagiaire
 
-**Intitulé du Projet :** Developpement d'un outils logiciel C++/Qt permettant d'automatiser de taches sur tableurs xlsx et csv.
+**Déscriptif du Projet :** Developpement d'un outils logiciel C++/Qt permettant d'automatiser de taches sur tableurs xlsx et csv.
 
 **Réalisations :**
 
