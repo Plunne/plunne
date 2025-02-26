@@ -213,37 +213,84 @@ dans les fichiers ".tact"
 
 ## [RISC-Plunne](https://github.com/Plunne/RISC-Plunne)
 
-**Date :** 2025 (En cours...)  
-**Intitulé du Projet :** CPU avec une architecture RISC-V (ISA : RV32i) ecrit en VHDL sur un FPGA Xilinx Zynq-7020.  
-**Environnement technique :** *ASM, RISC-V, VHDL, VIVADO, XILINX (Zynq-7020)*
+**2025 (En cours...)** | Personnel
+:-|:- 
+**Déscriptif du projet** | *CPU avec une architecture RISC-V (ISA : RV32i) ecrit en VHDL sur un FPGA Xilinx Zynq-7020.*
+**Langage(s) de programmation** | VHDL, Assembleur (RV32i)
+**Logiciels/Outils utilisés** | AMD/XILINX Vivado
+**Systèmes d’exploitation** | N/A
+**Matériel** | Pynq Z2 (FPGA : Xilinx Zynq-7020)
+**Méthodologie** | Kanban
+**Autres** | RISC-V
 
 ## [STM32_LSL (LOW-LEVEL STM32 LIBRARY)](https://github.com/Plunne/STM32_LSL)
 
-**Date :** 2023 (En pause...)  
-**Intitulé du Projet :** Bibliotheques de drivers STM32 from scratch  
-**Environnement technique :** *C, STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI), CMSIS, VSCODE, PLATFORMIO, RCC, ADC, USART, TIMERS, GITHUB*
+**2023 (En pause...)** | Personnel
+:-|:- 
+**Déscriptif du projet** | *Bibliotheques de drivers STM32 from scratch.*
+**Langage(s) de programmation** | C
+**Logiciels/Outils utilisés** | VSCode (w/ PlatformIO), Git (Github)
+**Systèmes d’exploitation** | N/A
+**Matériel** | STM32 x2 (Bluepill F103C8T6, Nucleo-F767ZI)
+**Méthodologie** | Kanban
+**Autres** | CMSIS, RCC, ADC, USART, TIMERS
 
 ## [SIMCENTRALIZER](https://github.com/Plunne/SimCentralizer)
 
-**Date :** 2022  
-**Intitulé du Projet :** Centraliseur de peripheriques USB de simulation tout en un. (STM32)  
-**Environnement technique :** *C, STM32, STM32CubeMX, EMACS, USB HID, SPI, UART, ADC, MAKEFILE, GCC, ST-LINK, VIM, LINUX, KICAD, GITHUB*
+**2022 (Terminé)** | Personnel
+:-|:- 
+**Déscriptif du projet** | *Centraliseur de peripheriques USB de simulation tout en un. (STM32)*
+**Langage(s) de programmation** | C, Makefile
+**Logiciels/Outils utilisés** | STM32CubeMX, GCC, EMACS, ST-Link, KiCAD, Git (Github)
+**Systèmes d’exploitation** | Linux (Arch-Linux)
+**Matériel** | STM32 (Bluepill F103C8T6)
+**Méthodologie** | Kanban
+**Autres** | STM32HAL, ADC, SPI, UART, USB HID
 
 ## [Zapette BLE](https://github.com/Plunne/Zapette-BLE)
 
-**Date :** 2022  
-**Intitulé du Projet :** Telecommande-pointeur de conference Bluetooth Low Energy HID connectee. (ESP32)  
-**Environnement technique :** *C++, ESP32, ARDUINO, PLATFORMIO, BLE, ADC, NEOVIM, LINUX, KICAD, GITHUB*
+**2022 (Terminé)** | Personnel
+:-|:- 
+**Déscriptif du projet** | *Telecommande-pointeur de conference Bluetooth Low Energy HID connectee. (ESP32)*
+**Langage(s) de programmation** | C++
+**Logiciels/Outils utilisés** | NeoVim, PlatformIO-CLI, KiCAD, Git (Github)
+**Systèmes d’exploitation** | Linux (Arch-Linux)
+**Matériel** | ESP32
+**Méthodologie** | Kanban
+**Autres** | Arduino, ADC, BLE
 
-## De Electronique
+## Voiture CAN
 
-**Date :** 2021  
-**Intitulé du Projet :** Comprehension, creation et documentation d'un de electronique en Licence Professionnelle.  
-**Environnement technique :** *C, PIC, ORCAD*
+**2021 (Terminé)** | Académique
+:-|:- 
+**Déscriptif du projet** | *Calculateur du poste de conduite d’une voiture en maquette a taille humaine interface avec les ECU des autres parties de la voiture via un Bus CAN.*
+**Langage(s) de programmation** | C
+**Logiciels/Outils utilisés** | Freescale CodeWarrior (Eclipse IDE)
+**Systèmes d’exploitation** | N/A
+**Matériel** | Freescale S12X
+**Méthodologie** | Kaban
+**Autres** | ADC, CAN, PWM
+
+## Dé Electronique
+
+**2021 (Terminé)** | Académique
+:-|:- 
+**Déscriptif du projet** | *Comprehension, Creation et Documentation d'un dé électronique en Licence Professionnelle. (Projet uniquement materiel)*
+**Langage(s) de programmation** | N/A
+**Logiciels/Outils utilisés** | ORCAD, Osciloscope, Multimetre, Fer a souder, Perceuse a colonne, autres...
+**Systèmes d’exploitation** | N/A
+**Matériel** | Microchip PIC18F
+**Méthodologie** | Scrum
+**Autres** | N/A
 
 ## Balance Electronique
 
-**Date :** 2018  
-**Intitulé du Projet :** Balance electronique a capteur loadcell et ecran OLED en BTS. (Arduino)  
-**Environnement technique :** *C++, ARDUINO*
-
+**2018 (Terminé)** | Académique
+:-|:- 
+**Déscriptif du projet** | *Balance électronique a capteur loadcell et écran OLED en BTS. (Arduino)*
+**Langage(s) de programmation** | C+++
+**Logiciels/Outils utilisés** | Arduino IDE
+**Systèmes d’exploitation** | N/A
+**Matériel** | ATMEL ATmega2560, Capteur Loadcell, Ecran OLED
+**Méthodologie** | Kaban
+**Autres** | ADC, I2C
