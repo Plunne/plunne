@@ -64,7 +64,7 @@
 
 **Déscriptif du projet :** *Calculateur Haute Performance d'habitacle pour les modèles de voitures
 haut de gamme du groupe Volkswagen (Audi/Porsche) qui embarque 2 Micro-controleurs
-INFINEON Aurix TC3XX.*
+INFINEON Aurix TC3XX en ASIL B(D).*
 
 **Réalisations :**
 
