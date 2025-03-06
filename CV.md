@@ -3,7 +3,7 @@
 *Passionnée d'informatique notamment dans la programmation en langage de bas-niveau sur micro-contrôleurs en C et FPGA en VHDL.*
 
 > **Nom :** Lena SAVY-LARIGALDIE  
-> **Age :** 25 ans  
+> **Age :** 26 ans  
 > **Nationnalite :** Francaise  
 > **Permis :** B 
 
@@ -146,7 +146,7 @@ dans les fichiers ".tact"
 **Déscriptif du Projet :** *Mise en application lors de 2 TPs - le premier sur de l'utilisation de protocole UART pour communiquer avec un microcontrôleur afin de transmettre des messages en morse. Le second sur de la manipulation de registres sur microcontrôleur et affichage 7 segments.*
 
 **Réalisations :**
-- Développement embarqué, système temps réel
+- Développement embarqué, systèmes temps réel
 - Débuggage
 - Codage en langages C et ADA
 - Cycle en V
