@@ -10,12 +10,12 @@
 ## 🗣 LANGUES
 
 ### 🇬🇧 Anglais
-> **Niveau :** B2/C1 (Courant + Technique)
+> **Niveau :** C1 (Courant + Technique)
 
 ## 🛠 COMPETENCES
 
 | INFORMATIQUE   |                                                                                                                                                                                                                                                                                                                             |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------|-----------------------------------------------------------------------------------------------------------|
 | Langages       | *Ada, Assembleur, C, C++, CMake, HTML/CSS, Lua, Makefile, Python, Rust, Shell/Bash, SQL/PHP, VHDL*                                                                                                                                                                                                                                      |
 | Formats        | *csv, ini, json, xml*                                                                                                                                                                                                                                                                                                       |
 | Frameworks     | *Arduino, CMSIS, Qt, STM32HAL, SWATT (Continental SWT Framework), Tkinter*                                                                                                                                                                                                                             |
@@ -288,7 +288,7 @@ dans les fichiers ".tact"
 **2018 (Terminé)** | Académique
 :-|:- 
 **Déscriptif du projet** | *Balance électronique a capteur loadcell et écran OLED en BTS. (Arduino)*
-**Langage(s) de programmation** | C+++
+**Langage(s) de programmation** | C++
 **Logiciels/Outils utilisés** | Arduino IDE
 **Systèmes d’exploitation** | N/A
 **Matériel** | ATMEL ATmega2560, Capteur Loadcell, Ecran OLED
