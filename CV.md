@@ -29,29 +29,86 @@
 
 # 🎓 FORMATIONS
 
-### 2023 - POEI Developpement Logiciels Embarques
+### 2023 - POEI Systemes Embarques
 > **Niveau :** BAC +4 (RNCP6)  
-> **Etablissement :** SII (Societe pour l'Informatique Industrielle)
+> **Etablissement :** SII (Societe pour l'Informatique Industrielle)  
+> **Descriptif :** *Formation intense de 54 jours sur le domaine de l'embarque mise en place par SII avec
+Pole Emploi.*
+>  
+> **Langages :**
+> - Ada
+> - Assembleur
+> - C
+> - Python
+> - Shell
+>  
+> **Protocoles :**
+> - CAN/CAN-FD
+> - Ethernet/TCP/IP
+> - I²C
+> - LIN
+> - SPI
+> - UART
+>  
+> **Normes :**
+> - DO-178C
+> - ISO 26262 (AUTOSAR)
+>  
+> **Méthodologies :**
+> - Agile
+> - Cycle en V
+> - Kanban
+> - Scrum
+>  
+> **Autres :**
+> - Commandes de vol Airbus (dont formation FMS)
+> - Git
+> - Linux
+> - RTOS (Systemes d'exploitation temps reel)
 
-### 2021 - LP CCRSEE (Conception Commande & Realisation de Systemes Electriques Embarques)
+### 2021 - LP CCRSEE
 > **Niveau :** BAC +3 (Licence Professionnelle)  
-> **Etablissement :** IUT Paul Sabatier (Tarbes)
+> **Etablissement :** IUT Paul Sabatier (Tarbes)  
+> **Descriptif :** *Licence Professionnelle Conception, Commandes & Realisation de Systemes Electriques Embarques*
+>
+> **Modules :**
+> - Automatisation (Labview)
+> - Conception de PCB (ORCAD)
+> - DSP
+> - Electronique de puissance
+> - FPGA (VHDL)
+> - Microcontroleurs (Langage C)
+> - Protocoles de communication (CAN, UART)
+> - Simulation electronique (Multisim, PSIM)
 
-### 2020 - BTS SNIR (Systemes Numeriques - Option A : Informatique & Reseau)
+### 2020 - BTS SNIR
 > **Niveau :** BAC +2 (Brevet de Technicien Superieur)  
-> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)
+> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)  
+> **Descriptif :** *Brevet de Technicien Superieur Systemes Numeriques - Option A : Informatique & Reseau*
+>
+> **Modules :**
+> - Administration Réseau (Adressage, Déploiement, Routage)
+> - Développement Web (HTML, CSS, PHP)
+> - Développement Logiciels Applicatifs (Python/TKinter, C++/Qt)
+> - Développement Logiciels Embarques (C, C++/Arduino)
+> - Gestion de projet (Méthodes : Agile, Scrum, Cycle en V)
+> - Modélisation UML (Cas d'utilisation, Diagrammes de paquets, Diagrammes de classes, Diagrammes de
+séquence)
 
-### 2017 - BP SEN (Systemes Electroniques Numeriques)
+### 2017 - BP SEN
 > **Niveau :** BAC (Baccalaureat Professionnel)  
-> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)
+> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)  
+> **Descriptif :** *Baccalaureat Professionnel Systemes Electroniques Numeriques*
 
-### 2016 - BEP SEN (Systemes Electroniques Numeriques)
+### 2016 - BEP SEN
 > **Niveau :** BEP (Brevet d'Etudes Professionnelles)  
-> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)
+> **Etablissement :** Lycee Professionnel et Technologique Saint-Pierre (Tarbes)  
+> **Descriptif :** *Brevet d'Etudes Professionnelles Systemes Electroniques Numeriques*
 
 ### 2015 - DNB
 > **Niveau :** DNB (Diplome Nationnal du Brevet des Colleges)  
-> **Etablissement :** College Pradeau-La Sede (Tarbes)
+> **Etablissement :** College Pradeau-La Sede (Tarbes)  
+> **Descriptif :** *Diplome Nationnal du Brevet des Colleges*
 
 # 💼 EXPERIENCES PROFESSIONNELLES
 
