@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on **C** for embedded systems (Driver & Middleware Layers)
+- 🔭 I’m currently working on **C** for embedded systems (Drivers & Middlewares Layers)
 - 🌱 I’m currently learning **RISC-V Architecture** in **VHDL**.
+- 🚀 I'm discovering **Java** for mobile applications.
 - 📫 Tchat with me on Discord : `plunne`
 - 💼 [CV](https://github.com/Plunne/plunne/blob/main/CV.md)
 
