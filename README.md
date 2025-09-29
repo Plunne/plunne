@@ -3,7 +3,7 @@
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on **C** for embedded systems (Drivers & Middlewares Layers)
 - 🌱 I’m currently learning **RISC-V Architecture** in **VHDL**.
-- 🚀 I'm discovering **Java** for mobile applications.
+- 🚀 I'm discovering **Yocto** a Linux embedded distribution.
 - 📫 Tchat with me on Discord : `plunne`
 - 💼 [CV](https://github.com/Plunne/plunne/blob/main/CV.md)
 
