@@ -14,18 +14,19 @@
 
 ## 🛠 COMPETENCES
 
-| INFORMATIQUE   |                                                                                                                                                                                                                                                                                                                             |
+| INFORMATIQUE   |                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------|
-| Langages       | *Ada, Assembleur, C, C++, CMake, HTML/CSS, Lua, Makefile, Python, Rust, Shell/Bash, SQL/PHP, VHDL*                                                                                                                                                                                                                                      |
-| Formats        | *csv, ini, json, xml*                                                                                                                                                                                                                                                                                                       |
-| Frameworks     | *Arduino, CMSIS, Qt, STM32HAL, SWATT (Continental SWT Framework), Tkinter*                                                                                                                                                                                                                             |
-| Familles uC    | *Atmel AVR ATMega, Aurix TC3XX, Espressif ESP32, STMicroelectronics STM32*                                                                                                                                                                                                                                                  |
-| Protocoles     | *BLE, CAN, LIN, I2C, Ethernet, TCP/IP, DHCP, DNS, SPI, UART, USB HID*                                                                                                                                                                                                                                                            |
+| Langages       | *Ada, Assembleur, C, C++, CMake, HTML/CSS, Lua, Makefile, Python, Rust, Shell/Bash, SQL/PHP, VHDL*        |
+| Formats        | *csv, ini, json, xml*                                                                                     |
+| Frameworks     | *Arduino, CMSIS, Qt, STM32HAL, SWATT (Continental SWT Framework), Tkinter*                                |
+| Familles uC    | *Atmel AVR ATMega, Aurix TC3XX, Espressif ESP32, STMicroelectronics STM32*                                |
+| Protocoles     | *BLE, CAN, LIN, I2C, Ethernet, TCP/IP, DHCP, DNS, SPI, UART, USB HID*                                     |
 | Logiciels      | *Blender (Impression 3D), CANoe, Confluence, DOORS, Eclipse IDE, ElectroBits Tresos, Entreprise Architect, EMACS, GCC/GDB, Git/Github/Gitlab, IDEAS (Continental Eclispe IDE), Jenkins, JIRA, Keil, KiCAD (Conception PCB), LabView, LAMP, OrCAD, Qt Creator, STM32Cube{MX/IDE}, VS/VSCode, Vi/Vim/NeoVim, Vivado, WinIDEA, Wireshark* |
-| Methodes       | *Agile, Cycle en V, Kanban, SAFe, Scrum, UML*                                                                                                                                                                                                                                                                               |
-| Normes         | *DO-178C, ISO-26262 (AUTOSAR)*                                                                                                                                                                                                                                                                                                         |
-| OS             | *Linux (Arch, Debian, Fedora), Windows*                                                                                                                                                                                                                                                                                     |
-| Virtualisation | *Virtualbox, VMWare*                                                                                                                                                                                                                                                                                                        |
+| Methodes       | *Agile, Cycle en V, Kanban, SAFe, Scrum, UML*                                                             |
+| Normes         | *DO-178C, ISO-26262 (AUTOSAR)*                                                                            |
+| OS             | *Linux (Arch, Debian, Fedora), Windows, FreeRTOS*                                                         |                                                                       
+| IA             |  ChatGPT                                                                                                  |
+| Virtualisation | *Virtualbox, VMWare*                                                                                      |
 
 # 🎓 FORMATIONS
 
