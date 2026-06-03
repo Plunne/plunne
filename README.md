@@ -7,4 +7,4 @@
 - 📫 Tchat with me on Discord : `plunne`
 - 💼 [CV](https://github.com/Plunne/plunne/blob/main/CV.md)
 
-I'm a young 26yo embedded basic softwares engineer who loves Low Level programming and digital design. Also, I'm passionnate by japaneses cars.
+I'm a young 27yo embedded basic softwares engineer who loves Low Level programming and digital design. Also, I'm passionnate by japaneses cars.
