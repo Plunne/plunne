@@ -3,7 +3,7 @@
 *Passionnée d'informatique notamment dans la programmation en langage de bas-niveau sur micro-contrôleurs en C et FPGA en VHDL.*
 
 > **Nom :** Lena SAVY-LARIGALDIE  
-> **Age :** 26 ans  
+> **Age :** 27 ans  
 > **Nationnalite :** Francaise  
 > **Permis :** B 
 
@@ -31,7 +31,7 @@
 # 🎓 FORMATIONS
 
 ### 2023 - POEI Systemes Embarques
-> **Niveau :** BAC +4 (RNCP6)  
+> **Niveau :** BAC +5  
 > **Etablissement :** SII (Societe pour l'Informatique Industrielle)  
 > **Descriptif :** *Formation intense de 54 jours sur le domaine de l'embarque mise en place par SII avec
 Pole Emploi.*
